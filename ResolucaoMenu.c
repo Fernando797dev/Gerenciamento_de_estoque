@@ -325,3 +325,5 @@ int main()
 
 
 //O Github é muito daora! Obrigado Professor Guilherme por essa aula!!
+
+//nota 8/10 muito bem feito porem falata adicionar algumas coisas 
